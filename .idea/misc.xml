@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/drawable-v24/text_color_chip_state_list.xml" value="0.1305" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/drawable/background_color_chip_state_list.xml" value="0.1305" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/drawable/eks_splash_background.xml" value="0.1305" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/drawable/eks_splash_gradient.xml" value="0.1305" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/drawable/ic_ankh.xml" value="0.1305" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/drawable/text_color_chip_state_list.xml" value="0.1305" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/layout/activity_eks.xml" value="0.1" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/layout/activity_eksweb.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/layout/frag_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/layout/frag_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin User/AndroidStudioProjects/EgyptKingsStory/app/src/main/res/layout/game_eks.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

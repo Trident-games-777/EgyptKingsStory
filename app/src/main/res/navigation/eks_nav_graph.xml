@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/eks_nav_graph.xml"
+    app:startDestination="@id/settingsFrag">
+
+    <fragment
+        android:id="@+id/settingsFrag"
+        android:name="yqtrack.ap.screens.SettingsFrag"
+        android:label="frag_settings"
+        tools:layout="@layout/frag_settings" >
+        <action
+            android:id="@+id/action_settingsFrag_to_mainFrag"
+            app:destination="@id/mainFrag" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainFrag"
+        android:name="yqtrack.ap.screens.MainFrag"
+        android:label="frag_main"
+        tools:layout="@layout/frag_main" />
+</navigation>

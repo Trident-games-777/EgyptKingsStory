@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Egypt Kings Story</string>
+    <string name="fb_app_id">1225827568271865</string>
+    <string name="fb_client_token">3ac55ce371c2b9e6be1226a91aec52a7</string>
+    <string name="choose_credits">Choose credits</string>
+    <string name="_100">100</string>
+    <string name="_500">500</string>
+    <string name="_1000">1000</string>
+    <string name="enable_vibration">Enable vibration</string>
+    <string name="start">Start</string>
+    <string name="credits_left">Credits left: %1$s</string>
+    <string name="spin">Spin</string>
+</resources>
